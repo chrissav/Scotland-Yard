@@ -1,0 +1,2 @@
+arn=arn:aws:iam::aws:policy/AdministratorAccess
+read_only=True
